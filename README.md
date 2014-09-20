@@ -15,4 +15,4 @@ Over 175 icons supported across iPhone, iPad & iPod (Retina & Non-Retina), iOS7 
 
 All of these icons are my own creations; You will not find them in any other package. All the images used for backgrounds are credited & always will be, and the license for my package is a Creative Commons license for others to build on if they so wish.
 
-If you wish to [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GFTBGC4D59KCU) I would certainly appreciate that.
+If you wish to [donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GFTBGC4D59KCU) I would certainly appreciate that. You can also TipMe in Bitcoin [here](http://DomT4.tip.me).
